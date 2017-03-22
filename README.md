@@ -4,8 +4,7 @@ hello-world-2017-Ohnomynamedoesntfi created by GitHub Classroom
 
 Marked - unfortunately the ASCII didn't work in the preview but I found your hello world - thank you.  Mr S
 
-<div class="github-card" data-github="Ohnomynamedoesntfi" data-width="400" data-height="" data-theme="default"></div>
-<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+
 
 
 +----------------------------------------------------------------------------------------------------+
